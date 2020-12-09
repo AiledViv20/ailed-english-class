@@ -1,0 +1,30 @@
+.header-container {
+    background-color: #212020 !important;
+    height: 5em;
+    width: 100%;
+}
+
+.container-img {
+    float: right;
+    padding-top: 10px;
+    padding-right: 5%;
+}
+
+.assignment-1 {
+    text-align: center;
+}
+
+.assignment-2 {
+    text-align: center;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.img-profile {
+    padding-bottom: 10px;
+}
+
+.text-profile {
+    width: 30em;
+    margin: 0 auto;
+}
